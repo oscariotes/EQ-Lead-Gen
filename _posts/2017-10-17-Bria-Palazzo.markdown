@@ -2,7 +2,7 @@
 layout: default
 img: image20.jpg
 category: Teresa
-title: House and lot in Rizal 3 beds and 1 bath
+title: House and Lot in Rizal 3 beds and 1 bath
 published: true
 ---
 
