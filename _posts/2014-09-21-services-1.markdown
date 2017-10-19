@@ -2,20 +2,31 @@
 layout: default
 img: ridgepoint.jpg
 category: Services
-title: Affordable House and lot in Rizal 3 beds and 2 baths, accessible via main highway
-description: Brand new house and lot available for you and your family. Very good location best for first time home owners or as an Investment property. Near Public Market, Hospitals, Churches and Public Schools. Just 18 minutes ride fom Shopwise Antipolo. This subdivision is very accessible. Hindi na po kayo kelangan sumakay ng tricycle papasok sa location.
+title: >-
+  Affordable House and lot in Rizal 3 beds and 2 baths, accessible via main
+  highway
+description: >-
+  Brand new house and lot available for you and your family. Very good location
+  best for first time home owners or as an Investment property. Near Public
+  Market, Hospitals, Churches and Public Schools. Just 18 minutes ride fom
+  Shopwise Antipolo. This subdivision is very accessible. Hindi na po kayo
+  kelangan sumakay ng tricycle papasok sa location.
+published: true
 ---
+Brand new house and lot available for you and your family. Very good location best for first time home owners or as an Investment property. Near Public Market, Hospitals, Churches and Public Schools. Just 18 minutes ride fom Shopwise Antipolo. This subdivision is very accessible. Hindi na po kayo kelangan sumakay ng tricycle papasok sa location.
+
 Specifications:
 
-    Lot Area: 40 sqm
-    Floor Area 46 sqm
-    Room: 3
 
-    Bath: 1
-    TCP: 917,427.00
-    DP: Payable in 18 Mos 9,776.00
-    Mothly Amortization : @ 15 years 9,286
-    Please Contact :
-    Larry Suico
-    63 920 995 1467
-    email: larrysuico2@gmail.com
+-     Lot Area: 40 sqm
+-     Floor Area 46 sqm
+-     Room: 3
+- 
+-     Bath: 1
+-     TCP: 917,427.00
+-     DP: Payable in 18 Mos 9,776.00
+-     Mothly Amortization : @ 15 years 9,286
+-     Please Contact :
+-     Larry Suico
+-     63 920 995 1467
+-     email: larrysuico2@gmail.com
