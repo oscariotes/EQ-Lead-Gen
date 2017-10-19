@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
+url: http://samutsarihub.com/
+title: SamutSaring Bahay at Lupa
+email: larrysuico2@gmail.com
+author: Larry Suico
+description: The goal of this site is the help you find your Dream Home or Property Investment 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
@@ -26,9 +26,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  - title: Facebook
+    url: https://www.facebook.com/samutsarihub/
+  -
