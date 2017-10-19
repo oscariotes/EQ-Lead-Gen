@@ -7,9 +7,9 @@ published: true
 ---
 
 
-Subdivison Name: Bloomfield Teresa
-Developer: Shaugnessy 
-Location: Bagumbayan Teresa Rizal
+- Subdivison Name: Bloomfield Teresa
+- Developer: Shaugnessy 
+- Location: Bagumbayan Teresa Rizal
 
 - Lot Area: 36 sqm.
 - Floor Area: 44 sqm.
