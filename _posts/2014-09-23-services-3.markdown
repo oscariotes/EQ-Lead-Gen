@@ -1,7 +1,7 @@
 ---
 layout: default
 img: ridgepoint.jpg
-category: Services
+category: Teresa
 title: Affordable House and lot in Rizal 3 beds and 2 baths, accessible via main highway
 published: true
 ---
