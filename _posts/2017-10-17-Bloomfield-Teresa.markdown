@@ -2,7 +2,7 @@
 layout: default
 img: image38.jpg
 category: Teresa
-title: House and lot Bloomfield Teresa Rizal 2 beds and 1 bath
+title: House and Lot Bloomfield Teresa Rizal 2 beds and 1 bath
 published: true
 ---
 
