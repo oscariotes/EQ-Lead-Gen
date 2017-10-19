@@ -2,7 +2,7 @@
 layout: default
 img: ridgepoint.jpg
 category: Teresa
-title: Affordable House and lot in Rizal 3 beds and 1 baths, accessible via main highway
+title: Affordable House and Lot in Rizal 3 beds and 1 bath, accessible via main highway
 published: true
 ---
 Brand new house and lot available for you and your family. Very good location best for first time home owners or as an Investment property. Near Public Market, Hospitals, Churches and Public Schools. Just 18 minutes ride fom Shopwise Antipolo. This subdivision is very accessible. Hindi na po kayo kelangan sumakay ng tricycle papasok sa location.
@@ -18,6 +18,6 @@ Specifications:
 -     Mothly Amortization : @ 15 years 9,286
 -     Please Contact :
 -     Larry Suico
--     63 920 995 1467
+-     0995 920 1467
 -     email: larrysuico2@gmail.com
 
