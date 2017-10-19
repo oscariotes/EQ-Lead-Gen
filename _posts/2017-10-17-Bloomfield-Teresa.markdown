@@ -24,10 +24,10 @@ published: true
 - Loanable Amount: 656,000
 - Monthly Amortization 5,284
 
-- Financing Bank/NHMF
-- Other Fees N/A
-- Description Townhouse
-- Turnover Mode Bare Type
-- Turnover Date 2 years
+- Financing: Bank/NHMF
+- Other Fees: N/A
+- Description: Townhouse
+- Turnover Mode: Bare Type
+- Turnover Date: 2 years
 
 
