@@ -26,12 +26,11 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: Facebook
+  - title: facebook
     url: https://www.facebook.com/samutsarihub
     
-  - title: Twitter
+  - title: twitter
     url: https://twitter.com/samutsarihub
     
-   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+ 
   
