@@ -2,7 +2,7 @@
 layout: default
 img: image34.jpg
 category: Angono
-title: Bloomfield East sa Angono Rizal 1 beds and 1 bath
+title: Bloomfield East sa Angono Rizal 2 beds and 1 bath
 published: true
 ---
 
