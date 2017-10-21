@@ -2,7 +2,7 @@
 layout: default
 img: image27.jpeg
 category: Baras
-title: Bria Homes sa Baras Rizal 2 beds and 1 bath
+title: Bria Homes sa Baras Rizal 1 beds and 1 bath
 published: true
 ---
 
