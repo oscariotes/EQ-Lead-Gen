@@ -9,15 +9,23 @@ Brand new house and lot available for you and your family. Very good location be
 
 Specifications:
 
--     Lot Area: 40 sqm
--     Floor Area 46 sqm
--     Room: 3
--     Bath: 1
--     TCP: 917,427.00
--     DP: Payable in 18 Mos 9,776.00
--     Mothly Amortization : @ 15 years 9,286
--     Please Contact :
--     Larry Suico
--     0995 920 1467
--     email: larrysuico2@gmail.com
+- Subdivison Name: Ridgepoint Subdivision
+- Developer: Borland
+- Location: Bgry. Prinza, Teresa Rizal
+- Lot Area: 40 sqm
+- Floor Area: 46.6 sqm
+- No. of Bedroom: 3
+- No. of Toilet & Bath: 1
+
+- Total Contract Price: 898,704
+- Equity: 179,741
+- Equity Terms: 9,568.93/18 months
+- Max.Terms: 15 years
+- Loanable Amount: 718,963.20
+- Monthly Amortization: 9,096.63
+
+- Financing: In-House Financing Only
+- Description: Townhouse
+- Turnover Mode: Bare Type
+- Turnover Date	By Batch
 
