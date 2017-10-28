@@ -6,7 +6,7 @@ title: Fiesta Casitas in Binangonan Rizal 3 beds and 1 bath
 published: true
 ---
 
-##Fiesta Casitas
+## Fiesta Casitas
 
 - Developer: irc properties
 - Location: Tatala, Binangonan
