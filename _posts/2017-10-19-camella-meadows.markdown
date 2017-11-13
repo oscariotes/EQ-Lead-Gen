@@ -2,7 +2,7 @@
 layout: default
 img: picture1.jpg
 category: Binangonan
-title: Camella Meadows 2 Bed 1 Bathroom
+title: Camella Meadows in Binagonan 2 Bed 1 Bathroom
 published: true
 ---
 
