@@ -1,4 +1,3 @@
-
 ---
 layout: default
 img: picture1.jpg
