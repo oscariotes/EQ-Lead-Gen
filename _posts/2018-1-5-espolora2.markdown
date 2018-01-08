@@ -2,7 +2,7 @@
 layout: default
 img: Ads.jpg
 category: Antipolo
-title: Esplora 2 Townhomes
+title: Esplora 2 Townhomes 3 Bed 2 Bath
 published: true
 ---
 
@@ -14,7 +14,7 @@ Esplora 2 Townhomes
 - Lot Area: 69 sq.m.
 - Floor Area: 112 sq.m.
 - Bedroom: 3
-- Toilet & Bath: 1
+- Toilet & Bath: 2
 
 
 - Total Contract Price:3,550,000.00
