@@ -22,9 +22,9 @@ Bloomfield East is located in Mahabang Parang, at the boundary of Antipolo and A
 - Equity Terms: 16,944/18 months
 - Max.Terms: 25 years
 - Loanable Amount: 1,260,000
-- Monthly Amortization: 12,866.45 (NHM)
+- Monthly Amortization: 25 years: 9,690 (NHM) ; 25 years: 8,502 (PAGIBIG)
 
-- Financing: Bank/NHM
+- Financing: PAGIBIG/NHM
 - Description: Townhouse
 - Turnover Mode: Semi Finished Type
 - Turnover Date: 2 years
