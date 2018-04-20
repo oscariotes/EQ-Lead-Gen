@@ -6,7 +6,7 @@ title: Antipolo Residences 2 Bed and 2 Bath
 published: true
 ---
 
-- Location: Brgy. San Isidro, Antipolo City
+- Location: Brgy. Bayugo, Buliran, Antipolo City
 - Lot Area: 48 sqm
 - Floor Area: 50 sqm
 - Bedroom: 2
