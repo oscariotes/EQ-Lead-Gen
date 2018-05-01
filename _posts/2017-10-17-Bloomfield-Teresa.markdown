@@ -18,11 +18,11 @@ published: true
 
 - Total Contract Price: 820,000
 - Reservation Fee: 5,000
-- Equity: 20% 159,000
-- Equity Terms: 6,625/24 months
+- Equity: 20% 164,000
+- Equity Terms: 9,111.00 /18 months
 - Max.Terms: 20 years
 - Loanable Amount: 656,000
-- Monthly Amortization 5,284
+- Monthly Amortization 4,890.00
 
 - Financing: Bank/NHMF
 - Other Fees: N/A
