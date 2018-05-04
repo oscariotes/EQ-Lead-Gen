@@ -1,6 +1,6 @@
 ---
 layout: default
-img: alecza.jpg
+img: alecza1.jpg
 category: Baras
 title: Duplex House Baras 2 Beds 1 Bath
 published: true
